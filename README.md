@@ -4,7 +4,6 @@ This script allows you to chat as people you aren't (FE compatible). It uses a h
 
 > **⚠️ Disclaimer:** This may not work in games with custom fonts in chats. Long messages are very buggy as i am still updating it
 
-# Be Sure to also check out RTX! | https://discord.gg/m7kmSRc223
 ```lua
 --[[ 
 
